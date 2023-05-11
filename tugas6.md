@@ -1,6 +1,6 @@
 # Tugas 6
 
-## 1. Todo Uncompleted
+## 1. Todo completed
 ![Alt text](screenshot/Tugas6/Screenshot2.png)
 
 ## 2. Todo Uncompleted
